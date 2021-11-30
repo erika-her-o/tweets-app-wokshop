@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import { firestore } from "./firebase";
 import './App.css';
 
 function App() {
